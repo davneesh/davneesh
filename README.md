@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I am Avneesh Dayal
 
 <!--
 **davneesh/davneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+    
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 👋 Hi there, I am Avneesh Dayal <br>
+ 🎓 I am a final year CSE student at IIIT Jabalpur <br>
+ 
+ 💬 Reach Out ... <br>
+ 📫 Email: avneeshdayal2002@gmail.com
