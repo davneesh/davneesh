@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 -->
 
  👋 Hi there, I am Avneesh Dayal <br>
- 🎓 I am a final year CSE student at IIIT Jabalpur <br>
+ 🎓I am a final-year B.Tech student in Computer Science at IIIT Jabalpur <br>
  
  💬 Reach Out ... <br>
- 📫 Email: avneeshdayal2002@gmail.com
+ 📫 Email: avneeshdayal2002@gmail.com <br>
+ 😄 Fun fact: The first email was sent in 1971.
 
  # 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avneesh-dayal-78462521b/) 
