@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
  👋 Hi there, I am Avneesh Dayal <br>
  🎓 I am a final-year B.Tech student in Computer Science at IIIT Jabalpur <br>
- 💻 As a tech enthusiast, I thrive on exploring cutting-edge advancements and leveraging them to uncover insights and drive solutions. With strong skills in Python, SQL, 
-    and data visualization tools, I have a keen interest in data analytics.
+ 💻 <P>As a tech enthusiast, I thrive on exploring cutting-edge advancements and leveraging them to uncover insights and drive solutions. With strong skills in Python, SQL, 
+    and data visualization tools, I have a keen interest in data analytics. Eager to learn and grow, I am committed to contributing to meaningful projects that challenge my analytical and technical abilities.</P>
  
  💬 Reach Out ... <br>
  📫 Email: avneeshdayal2002@gmail.com <br>
