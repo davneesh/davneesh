@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
  # 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avneesh-dayal-78462521b/) 
- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avneeshdayal2002@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:avneeshdayal2002@gmail.com)
 
 
 
