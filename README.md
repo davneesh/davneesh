@@ -5,8 +5,6 @@
     and data visualization tools, I have a keen interest in data analytics. Eager to learn and grow, I am committed to contributing to meaningful projects that challenge my 
     analytical and technical abilities.</p>
 
- # My portfolio website -[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](#)
-
  💬 Reach Out ... <br>
  📫 Email: avneeshdayal2002@gmail.com <br>
  😄 Fun fact: The first email was sent in 1971.
