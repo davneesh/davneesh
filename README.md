@@ -1,6 +1,6 @@
 # Hi, I am Avneesh Dayal
 
- 🎓 I am a final-year B.Tech student in Computer Science at IIIT Jabalpur 
+ 🎓 I am a final-year B.Tech student in Computer Science at IIIT Jabalpur.
  <p>💻 As a tech enthusiast, I thrive on exploring cutting-edge advancements and leveraging them to uncover insights and drive solutions. With strong skills in Python, SQL, 
     and data visualization tools, I have a keen interest in data analytics. Eager to learn and grow, I am committed to contributing to meaningful projects that challenge my 
     analytical and technical abilities.</p>
