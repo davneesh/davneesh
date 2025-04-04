@@ -4,7 +4,7 @@
  <p>💻 As a tech enthusiast, I thrive on exploring cutting-edge advancements and leveraging them to uncover insights and to drive business growth. With a strong foundation in data analysis, problem-solving, and stakeholder communication, I enjoy transforming raw data into actionable insights that optimize operations and enhance decision-making. Eager to learn and grow, I am committed to contributing to meaningful projects that challenge my analytical and technical abilities.</p>
  🔍 Whether it’s identifying market trends, optimizing business processes, or improving customer experiences, I thrive on solving complex challenges with an analytical and structured approach.
 
-<br>
+<br><br>
  💬 Reach Out ... <br>
  📫 Email: avneeshdayal2002@gmail.com <br>
  😄 Fun fact: The first email was sent in 1971.
