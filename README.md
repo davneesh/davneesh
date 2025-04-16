@@ -5,7 +5,6 @@
  
  <p>🔍  Whether it’s identifying market trends, optimizing business processes, or improving customer experiences, I thrive on solving complex challenges with an analytical and structured approach.</p>
 
-
  💬 Reach Out ... <br>
  📫 Email: avneeshdayal2002@gmail.com <br>
  😄 Fun fact: The first email was sent in 1971.
